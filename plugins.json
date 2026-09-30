@@ -380,7 +380,7 @@
       "id": "nuclear-dashboard-video",
       "name": "Dashboard Video Companion",
       "description": "Auto-resizing zero-control YouTube video companion on the dashboard with GPU decode and instant transitions.",
-      "author": "Chad Longanecker",
+      "author": "HuggingBunny",
       "repo": "HuggingBunny/nuclear-dashboard-video",
       "category": "dashboard",
       "categories": [
